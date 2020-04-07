@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xuxin.xin/categories/</loc>
+    <loc>https://xuxin.xin/post/</loc>
+    <lastmod>2020-04-07T12:59:49+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://xuxin.xin/</loc>
+    <lastmod>2020-04-07T12:59:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xuxin.xin/post/%E6%95%A6%E7%85%8C%E8%A1%8C/</loc>
+    <lastmod>2020-04-07T12:59:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xuxin.xin/categories/</loc>
   </url>
   
   <url>
